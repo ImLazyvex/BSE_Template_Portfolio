@@ -1,7 +1,9 @@
 Make an AI image generator to produce an ML image as a sort of cover for this page
 
 # Learning NLP:
-<a href = "./NLPCodes.html">NLP Codes</a>
+The goal of this project is to create a program that can learn from a textbook and answer user queries based on the textbook.
+
+Some things I learned through this project:
 
 Vectorizer vs Tokenizer - A tokenizer simply splits a sentence or phrase into all the words (can also include punctuation based on Tokenizer params). A vectorizer on the other hand, takes these tokens and converts them into numbers that an ML model can understand, as it can not predict using Strings.
 
