@@ -11,7 +11,7 @@ Vectorizer vs Tokenizer - A tokenizer simply splits a sentence or phrase into al
 
 <a href = "./M1Codes.html">Milestone 1</a>: Creating the dataset to be used for the model.
 
-Milestone 2: Making a base model (first version) for the dataset to answer questions on the same topics from the dataset.
+<a href = "./M2Codes.html">Milestone 2</a>: Making a base model (first version) for the dataset to answer questions on the same topics from the dataset.
 
-Milestone 3/ Final Milestone: Refining the model continuously until it can answer all user given questions with a high accuracy.
+<a href = "./M3Codes.html">Milestone 3/ Final Milestone</a>: Refining the model continuously until it can answer all user given questions with a high accuracy.
 
