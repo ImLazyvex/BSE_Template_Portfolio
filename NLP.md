@@ -10,6 +10,7 @@ Vectorizer vs Tokenizer - A tokenizer simply splits a sentence or phrase into al
 # Milestones: 
 
 <a href = "./M1Codes.html">Milestone 1</a>: Creating the dataset to be used for the model.
+In milestone 1, the dataset is loaded with a file of a textbook which is split up, allowing relevant sections to be processed together. On top of that, the text from each pdf is pulled, with the splitting of the dataset allowing each text's to fall under the limit of text uploadable to the LLM used. This is another benefit of splitting the dataset. Each text is seperately uploaded to the LLM to generate as many questions and answers from it to build a dataset for the textbook.
 
 <a href = "./M2Codes.html">Milestone 2</a>: Making a base model (first version) for the dataset to answer questions on the same topics from the dataset.
 
